@@ -8,8 +8,5 @@
   "private": true,
   "scripts": {
     "start": "mdb"
-  },
-  "dependencies": {
-    "@monorepo-beginners/module-b": "workspace:*"
   }
 }
